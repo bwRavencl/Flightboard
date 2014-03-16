@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<profile>
+
+    <menu title="View" >
+        <action
+            key="S"
+            title="Switch View" />
+        <action
+            key="TAB"
+            title="Switch Panel" />
+        <action
+            key="TAB"
+            modifier="SHIFT"
+            title="Switch NAV" />
+        <action
+            key="DPAD_UP"
+            modifier="SHIFT"
+            title="Front View" />
+        <action
+            key="DPAD_DOWN"
+            modifier="SHIFT"
+            title="Rear View" />
+        <action
+            key="DPAD_LEFT"
+            modifier="SHIFT"
+            title="Left View" />
+        <action
+            key="DPAD_RIGHT"
+            modifier="SHIFT"
+            title="Right View" />
+        <action
+            key="LEFT_BRACKET"
+            title="View 1" />
+        <action
+            key="RIGHT_BRACKET"
+            title="View 2" />
+        <action
+            key="NUM_LOCK"
+            title="Map View" />
+        <action
+            key="MINUS"
+            modifier="SHIFT"
+            title="Zoom Out" />
+        <action
+            key="PLUS"
+            modifier="SHIFT"
+            title="Zoom In" />
+    </menu>
+    <menu title="Engine" >
+        <action
+            key="F2"
+            title="Dec Throttle" />
+        <action
+            key="F3"
+            title="Inc Throttle" />
+        <action
+            key="F2"
+            modifier="CTRL"
+            title="Dec RPM" />
+        <action
+            key="F3"
+            modifier="CTRL"
+            title="Inc RPM" />
+        <action
+            key="NUMPAD_3"
+            modifier="CTRL,SHIFT"
+            title="Dec Mixture" />
+        <action
+            key="NUMPAD_9"
+            modifier="CTRL,SHIFT"
+            title="Inc Miturex" />
+        <action
+            key="H"
+            title="Carb Heat" />
+        <action
+            key="M"
+            title="Sel Magnetos" />
+        <action
+            key="J"
+            title="Sel Jet Starter" />
+        <action
+            key="MINUS"
+            title="Dec Selected" />
+        <action
+            key="PLUS"
+            title="Inc Selected" />
+        <action
+            key="F1"
+            modifier="CTRL,SHIFT"
+            title="Jet Shutdown" />
+    </menu>
+    <menu title="Surfaces" >
+        <action
+            key="F5"
+            title="Flaps 0" />
+        <action
+            key="F6"
+            title="Flaps 10" />
+        <action
+            key="F7"
+            title="Flaps 30" />
+        <action
+            key="F8"
+            title="Flaps 40" />
+        <action
+            key="SLASH"
+            title="Spoiler" />
+        <action
+            key="NUMPAD_1"
+            title="Up Trim" />
+        <action
+            key="NUMPAD_7"
+            title="Down Trim" />
+    </menu>
+    <menu title="Gear" >
+        <action
+            key="G"
+            title="Gear" />
+        <action
+            key="PERIOD"
+            modifier="CTRL"
+            title="Parking Brake" />
+        <action
+            key="F11"
+            title="Left Brake" />
+        <action
+            key="F12"
+            title="Right Brake" />
+    </menu>
+    <menu title="Lights" >
+        <action
+            key="L"
+            title="All Lights" />
+        <action
+            key="L"
+            modifier="SHIFT"
+            title="Nav Lights" />
+        <action
+            key="L"
+            modifier="CTRL"
+            title="Landing Lights" />
+        <action
+            key="O"
+            title="Strobe Lights" />
+    </menu>
+    <menu title="Avionics" >
+        <action
+            key="Z"
+            title="Autopilot" />
+        <action
+            key="A"
+            title="ADF" />
+        <action
+            key="C"
+            title="COM" />
+        <action
+            key="F"
+            title="DME" />
+        <action
+            key="N"
+            title="NAV" />
+        <action
+            key="T"
+            title="Transponder" />
+        <action
+            key="V"
+            title="VOR/OBI" />
+        <action
+            key="1"
+            title="Sel 1" />
+        <action
+            key="2"
+            title="Sel 2" />
+        <action
+            key="MINUS"
+            title="Dec Freq" />
+        <action
+            key="PLUS"
+            title="Inc Freq" />
+        <action
+            key="B"
+            title="Calibrate ALT" />
+        <action
+            key="D"
+            title="Calibrate HDG" />
+    </menu>
+    <menu title="Sim" >
+        <action
+            key="P"
+            title="Pause" />
+        <action
+            key="Y"
+            title="Slew Mode" />
+        <action
+            key="Z"
+            modifier="SHIFT"
+            title="Coordinates" />
+        <action
+            key="K"
+            title="Calibrate Stick" />
+        <action
+            key="Q"
+            title="Sound" />
+        <action
+            key="I"
+            title="Smoke" />
+    </menu>
+    <menu title="ATC" >
+        <action
+            key="W"
+            modifier="CTRL"
+            title="Voice" />
+        <action
+            key="X"
+            modifier="CTRL"
+            title="Text" />
+        <action
+            key="Y"
+            modifier="CTRL"
+            title="Both" />
+        <action
+            key="K"
+            modifier="CTRL"
+            title="Contact" />
+        <action
+            key="R"
+            modifier="CTRL"
+            title="Repeat" />
+        <action
+            key="F"
+            modifier="CTRL"
+            title="FRAP on" />
+        <action
+            key="E"
+            modifier="CTRL"
+            title="FRAP off" />
+        <action
+            key="W"
+            modifier="CTRL"
+            title="Weather" />
+        <action
+            key="I"
+            modifier="CTRL"
+            title="IFR/VFR" />
+        <action
+            key="BACKSLASH"
+            modifier="CTRL"
+            title="Radar Check" />
+        <action
+            key="G"
+            modifier="CTRL"
+            title="Missed App" />
+    </menu>
+
+</profile>
